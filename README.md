@@ -1,5 +1,5 @@
-### "As-Salaam-Alaikum"
-#### I’m Ahoteshanul Haque Shah. 
+<h3 align="center">As-Salaam-Alaikum, I’m Ahoteshanul Haque Shah </h3>
+
 ![Profile views](https://gpvc.arturio.dev/ahoteshanul)  
 
  <img src="https://github.com/ahoteshanul/Images/blob/main/1631278156588.jpeg" alt="Ahoteshanul" width="100%" height="30%">
