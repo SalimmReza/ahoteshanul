@@ -14,7 +14,8 @@
 
 <h3 align="center">Check Out Others Profiles:</h3>
 
-- [Sololearn Profile](https://www.sololearn.com/profile/10059405)
+- Sololearn Profile : [Ahoteshanul Haque Shah](https://www.sololearn.com/profile/10059405)
+- Facebook Profile :[Ahoteshanul Haque Shah](https://www.facebook.com/ahoteshanul.haque.shah/)
 </br>
 <h3 align="center">Languages And Tools:</h3>
 
