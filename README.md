@@ -8,11 +8,12 @@
 - I’m interested in **Android Application Development**.
 - I am a computer science background student at the [Bangladesh University of Business and Technology](https://www.bubt.edu.bd)
 
-<h2 align="center">Check Out Others Profiles:</h2>
+<h2 align="center">Contact Me:</h2>
 
 - Sololearn Profile : **[Ahoteshanul Haque Shah](https://www.sololearn.com/profile/10059405)**
 - Facebook Profile : **[Ahoteshanul Haque Shah](https://www.facebook.com/ahoteshanul.haque.shah/)**
-- Discord Id: **Ahoteshanul#7667**
+- Phone Number : **:zero::one::seven::eight::three::one::six::eight::eight::one::five:**
+- Discord Id : **Ahoteshanul#7667**
 
 <h2 align="center">Languages And Tools:</h2>
 
