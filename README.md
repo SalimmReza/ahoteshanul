@@ -13,7 +13,6 @@
 - Sololearn Profile : **[Ahoteshanul Haque Shah](https://www.sololearn.com/profile/10059405)**
 - Facebook Profile : **[Ahoteshanul Haque Shah](https://www.facebook.com/ahoteshanul.haque.shah/)**
 - Phone Number : **:zero::one::seven::eight::three::one::six::eight::eight::one::five:**
-- Discord Id : **Ahoteshanul#7667**
 
 <h2 align="center">MY TECH STACK</h2>
 
