@@ -4,14 +4,13 @@
 
  <img src="https://github.com/ahoteshanul/Images/blob/main/1631278156588.jpeg" alt="Ahoteshanul" width="100%" height="30%">
 
-- I am a **Competitive Programmer**, **Mobile (Native)**
-- I’m interested in **Android Application Development**.
-- I am a computer science background student at the [Bangladesh University of Business and Technology](https://www.bubt.edu.bd)
+:pushpin: `BANGLADESH 🇧🇩` :pushpin: `Competitive Programmer` :pushpin: `Android Application Developer`
+- B.Sc. in Computer Science and Engineering from [Bangladesh University of Business and Technology](https://www.bubt.edu.bd)
 
 <h2 align="center">Contact Me:</h2>
 
-- Sololearn Profile : **[Ahoteshanul Haque Shah](https://www.sololearn.com/profile/10059405)**
-- Facebook Profile : **[Ahoteshanul Haque Shah](https://www.facebook.com/ahoteshanul.haque.shah/)**
+- Sololearn: **[Ahoteshanul Haque Shah](https://www.sololearn.com/profile/10059405)**
+- Facebook : **[Ahoteshanul Haque Shah](https://www.facebook.com/ahoteshanul.haque.shah/)**
 - Phone Number : **:zero::one::seven::eight::three::one::six::eight::eight::one::five:**
 
 <h2 align="center">MY TECH STACK</h2>
