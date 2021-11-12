@@ -5,7 +5,8 @@
  <img src="https://github.com/ahoteshanul/Images/blob/main/1631278156588.jpeg" alt="Ahoteshanul" width="100%" height="30%">
 
 :pushpin: `BANGLADESH 🇧🇩` :pushpin: `Competitive Programmer` :pushpin: `Android Application Developer`
-- B.Sc. in Computer Science and Engineering from [Bangladesh University of Business and Technology](https://www.bubt.edu.bd)
+<br>
+**B.Sc. in Computer Science and Engineering from [Bangladesh University of Business and Technology](https://www.bubt.edu.bd)**
 
 <h2 align="center">Contact Me:</h2>
 
