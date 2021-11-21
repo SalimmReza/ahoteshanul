@@ -4,7 +4,6 @@
 
 ![Profile views](https://gpvc.arturio.dev/ahoteshanul)  
 
-<img src="https://img.shields.io/badge/Ahoteshanul-CAll%20ME%20PROFESSOR-blue" alt="Ahoteshanul" width="30%" height="30%">
  
 :pushpin: `BANGLADESH 🇧🇩` :pushpin: `Competitive Programmer` :pushpin: `Android Application Developer`
 <br>
@@ -12,7 +11,11 @@
 
 <h2 align="center">Contact Me:</h2>
 
-:pushpin: `Facebook`  **[Ahoteshanul Haque Shah](https://www.facebook.com/ahoteshanul.haque.shah/)**
+[![Ahoteshanul Haque Shah](https://img.shields.io/badge/Facebook-Ahoteshanul%20Haque%20Shah-informational)](https://www.facebook.com/ahoteshanul.haque.shah/)
+<br>
+![Ahoteshanul Haque Shah](https://img.shields.io/badge/Gmail-ahoteshanul%40gmail.com-informational)
+<br>
+![Ahoteshanul Haque Shah](https://img.shields.io/badge/Phone%20Number-01783168815-informational)
 
 <h2 align="center">MY TECH STACK</h2>
 
