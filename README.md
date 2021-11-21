@@ -1,7 +1,9 @@
-<h3 align="center">As-Salaam-Alaikum, I’m Ahoteshanul Haque Shah </h3>
+<img src="https://img.shields.io/badge/-As--Salaam--Alaikum-informational" alt="Ahoteshanul" width="100%" height="10%">
 
 ![Profile views](https://gpvc.arturio.dev/ahoteshanul)  
 
+ <img src="https://img.shields.io/badge/Ahoteshanul-CAll%20ME%20PROFESSOR-blue" alt="Ahoteshanul" width="30%" height="30%">
+ 
  <img src="https://github.com/ahoteshanul/Images/blob/main/1631278156588.jpeg" alt="Ahoteshanul" width="100%" height="30%">
 
 :pushpin: `BANGLADESH 🇧🇩` :pushpin: `Competitive Programmer` :pushpin: `Android Application Developer`
