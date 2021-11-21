@@ -12,11 +12,7 @@
 
 <h2 align="center">Contact Me:</h2>
 
-:pushpin: `Sololearn` **[Ahoteshanul Haque Shah](https://www.sololearn.com/profile/10059405)**
-<br>
 :pushpin: `Facebook`  **[Ahoteshanul Haque Shah](https://www.facebook.com/ahoteshanul.haque.shah/)**
-<br>
-:pushpin: `Phone Number`  **:zero::one::seven::eight::three::one::six::eight::eight::one::five:**
 
 <h2 align="center">MY TECH STACK</h2>
 
